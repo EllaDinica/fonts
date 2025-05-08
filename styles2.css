@@ -1,0 +1,60 @@
+body {
+    padding: 20px;
+    background: #f9f9f9;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
+  /* Класичні/інтерфейсні шрифти */
+  .font-roboto { font-family: 'Roboto', sans-serif; }
+  .font-opensans { font-family: 'Open Sans', sans-serif; }
+  .font-montserrat { font-family: 'Montserrat', sans-serif; }
+  .font-manrope { font-family: 'Manrope', sans-serif; }
+  .font-noto-sans { font-family: 'Noto Sans', sans-serif; }
+  .font-noto-serif { font-family: 'Noto Serif', serif; }
+  .font-fira { font-family: 'Fira Sans', sans-serif; }
+  .font-ptsans { font-family: 'PT Sans', sans-serif; }
+  .font-ptserif { font-family: 'PT Serif', serif; }
+  .font-arimo { font-family: 'Arimo', sans-serif; }
+  .font-exo2 { font-family: 'Exo 2', sans-serif; }
+  .font-rubik { font-family: 'Rubik', sans-serif; }
+  .font-raleway { font-family: 'Raleway', sans-serif; }
+  .font-didact { font-family: 'Didact Gothic', sans-serif; }
+  .font-tenor { font-family: 'Tenor Sans', sans-serif; }
+  .font-cuprum { font-family: 'Cuprum', sans-serif; }
+  .font-oswald { font-family: 'Oswald', sans-serif; }
+  
+  /* Рукописні */
+  .font-caveat { font-family: 'Caveat', cursive; }
+  .font-badscript { font-family: 'Bad Script', cursive; }
+  .font-marck { font-family: 'Marck Script', cursive; }
+  .font-neucha { font-family: 'Neucha', cursive; }
+  
+  /* Декоративні */
+  .font-lobster { font-family: 'Lobster', cursive; }
+  .font-comfortaa { font-family: 'Comfortaa', cursive; }
+  .font-poiret { font-family: 'Poiret One', cursive; }
+  .font-yeseva { font-family: 'Yeseva One', cursive; }
+  .font-ruslan { font-family: 'Ruslan Display', cursive; }
+  .font-merriweather { font-family: 'Merriweather', serif; }
+  
+  /* Системні */
+  .font-arial { font-family: 'Arial', sans-serif; }
+  .font-tahoma { font-family: 'Tahoma', sans-serif; }
+  .font-verdana { font-family: 'Verdana', sans-serif; }
+  .font-georgia { font-family: 'Georgia', serif; }
+  .font-times { font-family: 'Times New Roman', serif; }
+  .font-courier { font-family: 'Courier New', monospace; }
+  .font-trebuchet { font-family: 'Trebuchet MS', sans-serif; }
+  .font-lucida { font-family: 'Lucida Sans Unicode', sans-serif; }
+  .font-segoe { font-family: 'Segoe UI', sans-serif; }
+  .font-impact { font-family: 'Impact', sans-serif; }
